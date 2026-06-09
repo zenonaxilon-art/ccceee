@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Realms Online",
+  "description": "A fully functional real-time multiplayer idle clicker game utilizing Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
